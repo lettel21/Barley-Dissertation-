@@ -1,5 +1,5 @@
 # Barley-Dissertation-2026
-TBC [To contain data and code scripts used for analysis]
+
 DATASETS:
 - Study I data (cycles_combined.csv AND mrgr3.csv)
 - Study II data (glasshouse experiment.csv)
